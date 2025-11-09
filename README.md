@@ -29,7 +29,7 @@ Me gustan las Matemáticas y la computación, explorando cómo estas dos discipl
 
 ## 📊 Estadísticas de GitHub
 
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Maxo2108&show_icons=true&theme=radical)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=08MGlab&show_icons=true&theme=radical)
 
 ## 📫 Conecta conmigo
 
