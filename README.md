@@ -23,9 +23,6 @@ Me gustan las Matemáticas y la computación, explorando cómo estas dos discipl
 
 ## 📂 Proyectos 
 
-### [Algoritmo Wagner Whitin] (en proceso)
-📝 Artículo en español que condensa la información del artículo original, con implementación en Python en desarrollo.
-🛠️ **Tecnologías:** Python, LaTeX 
 
 ## 📊 Estadísticas de GitHub
 
